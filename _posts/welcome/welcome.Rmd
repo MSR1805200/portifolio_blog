@@ -1,13 +1,12 @@
 ---
-title: "Welcome to Mateus Silva"
+title: "O começo de tudo"
 description: |
-  Welcome to our new blog, Mateus Silva. We hope you enjoy 
-  reading what we have to say!
+  Bem vindo ao meu blog!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Mateus Silva
+    url: https://github.com/MSR1805200
+    affiliation: UEPB
+    affiliation_url: https://uepb.edu.br/
 date: 03-05-2022
 output:
   distill::distill_article:
@@ -22,5 +21,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# O QUE ESPERAR?
 
+Bom, este é o meu primeiro blog, então estarei postando aqui todos os meus projetos
+sejam eles de pesquisa, extensão ou pessoais. Como sou um estátistico e técnico 
+em informática, espere assuntos como aprendizado de máquina, análise de dados, 
+ciência de dados e afins por aqui. Sinta-se livre para ler cada um dos posts.
+Até a próxima!!
 

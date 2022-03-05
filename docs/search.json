@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Sobre mim",
+      "description": "Alguns detalhes sobre minha carreira",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-03-05T13:47:29-03:00"
+      "contents": "\n\nQUEM SOU EU?\nOlá, me chamo Mateus, sou um técnico em informática pelo Instituto\nfederal de Educação, Ciências e Tecnologias da Paraíba(IFPB) campus\nCampina Grande e graduando pela Universidade Estadual da\nParaíba(UEPB).\nUM RESUMO DA MINHA\nTRAJETÓRIA\nGosto de começar a falar sobre mim quando iniciei meus estudos no\nIFPB. Entrei quando tinha 15 anos e foi lá que iniciei e aprofundei em\nvários temas da imlementação de softwares. Por lá aprendi vários\nconceitos atrelados a programação tais como a Programação Orientada a\nObjetos, Estruturas de dados e Banco de dados. Aprendi a programar em\ndiversas linguagens de programação como por exemplo python,\nshellscript, c++, javascript, sql e\njava. Mas claro do que adianta tanto conhecimento se não pode\naplicá-lo? Dentro do IFPB tive oportunidade de ingressar em um projeto\nde robótica, onde me aprofundei ainda mais na linguagem python,\nalém disso consegui outro projeto no campo do aprendizado de máquina na\nqual foi proposto a implementação de um chatbot com python\nimbuido com um modelo de aprendizado de máquina que, dado um conjunto de\ndados processado com técnicas de Processamento de Linguagem Natural(PLN)\nconseguia responder perguntas de alunos do IFPB sobre processos\nburocráticos.\nDepois que terminei o curso médio e técnico, fui aprovado no curso de\nestatística da Universidade Estadual da Paraíba, onde continuo me\naprofundado nos estudos do aprendizado de máquina com bolsas de\niniciação cientifica.\nMeus assuntos favoritos para estudos são o aprendizado de máquina,\nciência de dados e processamento de linguagem natural, além de alguns\ntópicos não usuais como computação evolucinária.\n\n\n\n",
+      "last_modified": "2022-03-05T14:20:01-03:00"
     },
     {
       "path": "index.html",
       "title": "Mateus Silva",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-05T13:47:30-03:00"
+      "last_modified": "2022-03-05T14:20:02-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

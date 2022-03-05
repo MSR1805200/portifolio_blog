@@ -1,9 +1,45 @@
 ---
-title: "About this blog"
+title: "Sobre mim"
 description: |
-  Some additional details about the blog
+  Alguns detalhes sobre minha carreira
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![](imagens/perfil.jpg)
+
+# QUEM SOU EU?
+
+Olá, me chamo Mateus, sou um técnico em informática pelo Instituto federal de 
+Educação, Ciências e Tecnologias da Paraíba(IFPB) campus Campina Grande e graduando
+pela Universidade Estadual da Paraíba(UEPB).
+
+
+# UM RESUMO DA MINHA TRAJETÓRIA
+
+Gosto de começar a falar sobre mim quando iniciei meus estudos no IFPB. Entrei
+quando tinha 15 anos e foi lá que iniciei e aprofundei em vários temas da 
+imlementação de softwares. Por lá aprendi vários conceitos atrelados a programação
+tais como a Programação Orientada a Objetos, Estruturas de dados e Banco de dados.
+Aprendi a programar em diversas linguagens de programação  como por exemplo *python*, 
+*shellscript*, *c++*, *javascript*, *sql* e *java*. Mas claro do que adianta tanto
+conhecimento se não pode aplicá-lo? Dentro do IFPB tive oportunidade de ingressar
+em um projeto de robótica, onde me aprofundei ainda mais na linguagem *python*,
+além disso consegui outro projeto no campo do aprendizado de máquina na qual 
+foi proposto a implementação de um chatbot com *python* imbuido com
+um modelo de aprendizado de máquina que, dado um conjunto de dados processado
+com técnicas de Processamento de Linguagem Natural(PLN) conseguia responder 
+perguntas de alunos do IFPB sobre processos burocráticos.
+
+Depois que terminei o curso médio e técnico, fui aprovado no curso de estatística
+da Universidade Estadual da Paraíba, onde continuo me aprofundado nos estudos
+do aprendizado de máquina com bolsas de iniciação cientifica.
+
+Meus assuntos favoritos para estudos são o aprendizado de máquina, ciência de dados e
+processamento de linguagem natural, além de alguns tópicos não usuais como computação
+evolucinária.
+
+
